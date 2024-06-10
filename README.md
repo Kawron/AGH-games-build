@@ -49,3 +49,23 @@ The garage is filled with various challenging obstacles designed to test the pla
 ## Used technologies
 
 This game was prepared using Unity Game engine version 2022.3.21f1
+
+## Credits
+
+Models:
+
+https://www.turbosquid.com/3d-models/free-3ds-model-scissor/758210
+https://www.turbosquid.com/3d-models/tire-tread-3d-1485856
+https://www.turbosquid.com/3d-models/extinguisher-model-2022701
+https://www.turbosquid.com/3d-models/low-poly-rake-and-shovel-model-2204817
+https://www.turbosquid.com/3d-models/water-bottle-3d-model/1115365
+https://www.turbosquid.com/3d-models/toolbox-tool-box-3d-1607766
+https://www.turbosquid.com/3d-models/3d-plastic-barrel-1881928
+https://www.turbosquid.com/3d-models/plastic-barrel-3d-model-2205941
+https://www.turbosquid.com/3d-models/3d-plastic-bottal-senitaizar-1849381
+https://www.turbosquid.com/3d-models/hondaprelude-3d-model-2162955
+
+Music:
+
+https://opengameart.org/content/gray-trip
+
